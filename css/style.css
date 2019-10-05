@@ -1,3 +1,34 @@
+body{
+    background-color: lightsteelblue;
+}
 .navbar{
     background-color:#DCE0DD;
+}
+#main{
+    /*width:100%;
+    height:1000px;
+    border:1px blue solid;
+    */
+    margin-top: 52px;
+    
+}
+#main form{
+    width:600px;
+    /*height: 50px;
+    border:1px red solid;*/
+    margin:auto auto;
+    display:block;
+    position:absolute;
+    
+}
+#main label{
+    line-height: 34px;
+}
+#main .col-md-3{
+     /*border:1px blue solid;*/
+     padding:0;
+}
+#main .col-md-2{
+    /*border:1px yellowgreen solid;*/
+    padding-left:20px;
 }
